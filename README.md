@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itzjunaid
 - 👀 I’m interested in expanding my knowledge in Java development, especially around modern frameworks and best practices in building scalable applications.
 - 🚀 Currently learning Spring Boot and React to enhance my skills in full-stack development and build dynamic web applications.
-- 📫 How to reach me ...
+- 📫 maniyarjunaid92@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Despite graduating with a degree in mechanical engineering, I’m currently exploring the world of computer skills with Spring Boot and React.  
 
