@@ -3,7 +3,7 @@
 - 🚀 Currently learning Spring Boot and React to enhance my skills in full-stack development and build dynamic web applications.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: As a mechanical engineer, I’m now diving into computer skills like Spring Boot and React to broaden my expertise.
+- ⚡ Fun fact: Despite graduating with a degree in mechanical engineering, I’m currently exploring the world of computer skills with Spring Boot and React.  
 
 <!---
 itzjunaid/itzjunaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
